@@ -1,0 +1,7 @@
+{
+  "code": "// No algorithm detected on board.",
+  "logic_intent": "No algorithm detected.",
+  "missing_edge_cases": [],
+  "tutor_hint": "Please write or sketch an algorithm (Python, C++, Java) on the whiteboard to receive active feedback.",
+  "no_algorithm": true
+}

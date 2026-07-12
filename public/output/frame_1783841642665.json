@@ -1,0 +1,11 @@
+{
+  "code": "if n & 1 == 1: return n",
+  "logic_intent": "Check if a number is odd and return it",
+  "missing_edge_cases": [
+    "handling even numbers",
+    "input validation"
+  ],
+  "tutor_hint": "Consider adding an else clause or handling even numbers explicitly",
+  "strokes": [],
+  "no_algorithm": false
+}

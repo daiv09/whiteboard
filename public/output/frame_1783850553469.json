@@ -1,0 +1,11 @@
+{
+  "code": "if (n <= 1) return",
+  "logic_intent": "Base case for a recursive function, possibly for a factorial or Fibonacci sequence",
+  "missing_edge_cases": [
+    "handling n < 1",
+    "return value or next operation"
+  ],
+  "tutor_hint": "Consider adding an else clause or a return statement for cases where n > 1, and handle invalid inputs like n < 1.",
+  "strokes": [],
+  "no_algorithm": false
+}

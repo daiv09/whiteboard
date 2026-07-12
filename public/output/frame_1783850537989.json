@@ -1,0 +1,11 @@
+{
+  "code": "if (n & 1 == -1)",
+  "logic_intent": "Check if the least significant bit of n is 1",
+  "missing_edge_cases": [
+    "handling non-integer inputs",
+    "considering overflow for large numbers"
+  ],
+  "tutor_hint": "The condition seems to be checking if the least significant bit of n is 1, but the comparison to -1 is unusual. Typically, we would compare to 1 or 0 for such checks. Consider revising to 'if (n & 1)' for a more conventional check.",
+  "strokes": [],
+  "no_algorithm": false
+}

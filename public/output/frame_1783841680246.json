@@ -1,0 +1,11 @@
+{
+  "code": "n = 2; if (n > 1)",
+  "logic_intent": "conditional check for n greater than 1",
+  "missing_edge_cases": [
+    "handling n <= 1",
+    "input validation for non-integer n"
+  ],
+  "tutor_hint": "Consider adding an else clause to handle cases when n is less than or equal to 1",
+  "strokes": [],
+  "no_algorithm": false
+}

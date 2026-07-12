@@ -1,0 +1,11 @@
+{
+  "code": "if n == 0: return 0",
+  "logic_intent": "Base case for factorial or similar recursive function",
+  "missing_edge_cases": [
+    "negative numbers",
+    "non-integer inputs"
+  ],
+  "tutor_hint": "Consider adding input validation and handling for edge cases",
+  "strokes": [],
+  "no_algorithm": false
+}

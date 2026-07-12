@@ -1,0 +1,10 @@
+{
+  "code": "if (n & 1 == 1) return \"Odd\"; else return \"Even\";",
+  "logic_intent": "Determine if a number is even or odd",
+  "missing_edge_cases": [
+    "handling non-integer inputs",
+    "handling negative numbers"
+  ],
+  "tutor_hint": "Consider adding an else statement for clarity and handling non-integer inputs",
+  "no_algorithm": false
+}

@@ -1,0 +1,11 @@
+{
+  "code": "if (n == 1) return",
+  "logic_intent": "conditional return statement",
+  "missing_edge_cases": [
+    "handling n < 1",
+    "handling n > 1"
+  ],
+  "tutor_hint": "Consider adding an else clause or handling other cases for n",
+  "strokes": [],
+  "no_algorithm": false
+}

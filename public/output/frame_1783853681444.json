@@ -1,0 +1,10 @@
+{
+  "code": "if (n != 1) let w",
+  "logic_intent": "conditional statement to check if a number is not equal to 1",
+  "missing_edge_cases": [
+    "else clause",
+    "definition of w"
+  ],
+  "tutor_hint": "Consider adding an else clause and defining the variable w for clarity and completeness.",
+  "no_algorithm": false
+}

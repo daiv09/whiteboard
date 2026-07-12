@@ -1,0 +1,11 @@
+{
+  "code": "if n == 0: pass",
+  "logic_intent": "check if a number is equal to zero",
+  "missing_edge_cases": [
+    "handling negative numbers",
+    "handling non-integer inputs"
+  ],
+  "tutor_hint": "consider adding an else clause or handling other conditions",
+  "strokes": [],
+  "no_algorithm": false
+}

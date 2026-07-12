@@ -1,0 +1,10 @@
+{
+  "code": "if (n % 2 == 1)",
+  "logic_intent": "check if a number is odd",
+  "missing_edge_cases": [
+    "handling non-integer inputs",
+    "handling negative numbers"
+  ],
+  "tutor_hint": "Consider adding comments to explain the purpose of the code and handling edge cases for non-integer and negative inputs.",
+  "no_algorithm": false
+}
